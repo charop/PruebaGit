@@ -8,7 +8,7 @@ public class PruebaGit {
 	 * @param args El programa no trata los argumentos.
 	 */
 	public static void main(String[] args) {
-		System.out.println("Lo dejo en Git y Github");
+		System.out.println("Con Git y desde Github modifico. Ahora haré un pull");
 
 	}
 
