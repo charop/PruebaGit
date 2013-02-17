@@ -8,7 +8,7 @@ public class PruebaGit {
 	 * @param args El programa no trata los argumentos.
 	 */
 	public static void main(String[] args) {
-		System.out.println("Subversion, tu antes molabas");
+		System.out.println("Subversion, tu antes molabas, pero ahora Git mola más");
 
 	}
 
